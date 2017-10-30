@@ -1,0 +1,3 @@
+<div ng-repeat="alert in currentAlerts" class="alert alert-{{alert.type}} cursor" ng-click="removeMessage(alert)">
+	{{ alert.message }} {{alert.alertLife / 1000}}
+</div>
