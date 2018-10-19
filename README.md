@@ -1,7 +1,5 @@
 Angular (1.6.x) Messenger service modules.
 
-The application is also hosted at: http://chasbeen.frih.net/messenger/
-
 An application demonstrating a messaging service. This service can easily be decoupled and integrated/enhanced for any system.
 
 (1) Configure the $exceptionHandler object (Decorating native Angular objects example) so that you can have bespoke Exception handlers. With the option to show users when deemed necessary/useful.
